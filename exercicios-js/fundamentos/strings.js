@@ -14,3 +14,5 @@ console.log(nome.replace(/\w/,'X'))//substitui a primeira letra pela pela letra 
 console.log(nome.replace(/\w/g,'X'))//substitui todas as letras pela letra x
 
 console.log('Eliseu,Elisama,Hunter'.split(',')) // Separa a string em um array usando a virgula
+
+//tentando alteração
